@@ -17,3 +17,9 @@ dog's back.
 >
 >## This is an H2 in a blockquote
 
+
+Some of these words *are emphasizes*.
+Some of thers words _are emphasized also_.
+Use two asterisks for **strong emphasis**.
+Or,if you prefer,__use two underscores instead__.
+
