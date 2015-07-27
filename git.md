@@ -23,3 +23,23 @@ Some of thers words _are emphasized also_.
 Use two asterisks for **strong emphasis**.
 Or,if you prefer,__use two underscores instead__.
 
+
+### 列表
+* Candy.
+* Gum.
+* Booze.
+
+加号:
++ Candy.
++ Gum.
++ Booze.
+
+和减号：
+- Candy.
+- Gum.
+- Booze.
+
+
+
+
+
